@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,anaconda,raspberrypi,apple,c,electron,powershell,azure,cloudflare,eclipse,neovim,docker,cpp,git,github,ps,pr,go,js,java,py,vim,wasm,vscode,sqlite,rust,md,linux" />
+    <img src="https://skillicons.dev/icons?i=anaconda,apple,c,powershell,cloudflare,cpp,git,github,ps,pr,py,vim,vscode,md,linux,matlab" />
   </a>
 </p>
 
