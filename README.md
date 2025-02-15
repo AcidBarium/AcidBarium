@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,c,powershell,cloudflare,cpp,git,github,ps,pr,py,vim,vscode,md,linux,matlab" />
+    <img src="https://skillicons.dev/icons?i=anaconda,apple,c,powershell,cloudflare,ps,cpp,git,github,pr,py,vscode,md,linux,matlab" />
   </a>
 </p>
 
