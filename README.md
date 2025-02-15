@@ -5,7 +5,10 @@
   </a>
 </p>
 
-![alt text](全部不会_3.gif)
+
+<p align="center">
+    <img src="全部不会_3.gif" />
+</p>
 
 
 
