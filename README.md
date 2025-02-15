@@ -1,5 +1,11 @@
 
-![alt text](01f3d1b1fed352633a0d074e982943f3.jpeg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,anaconda,raspberrypi,apple,c,powershell,neovim,docker,cpp,git,github,ps,pr,java,py,vim,wasm,vscode,sqlite,rust,md,linux" />
+  </a>
+</p>
+
+![alt text](全部不会_1.gif)
 
 <!--
 **AcidBarium/AcidBarium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
