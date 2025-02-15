@@ -5,7 +5,7 @@
   </a>
 </p>
 
-![alt text](全部不会_1.gif)
+![alt text](全部不会_2.gif)
 
 <!--
 **AcidBarium/AcidBarium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
