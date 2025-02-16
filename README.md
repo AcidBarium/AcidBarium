@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="全部不会_3.gif" />
+    <img src="全部都不会.gif" />
 </p>
 
 
